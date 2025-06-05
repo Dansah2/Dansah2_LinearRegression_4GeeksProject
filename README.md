@@ -1,6 +1,22 @@
-# Data Science Project Boilerplate
+# 🏥 Predicting Health Insurance Costs with Linear Regression
 
-This boilerplate is designed to kickstart data science projects by providing a basic setup for database connections, data processing, and machine learning model development. It includes a structured folder organization for your datasets and a set of pre-defined Python packages necessary for most data science tasks.
+This project focuses on building a predictive model for estimating medical costs based on a person's demographic and lifestyle features. Using a real-world dataset, we apply exploratory data analysis and linear regression modeling to extract insights and make accurate predictions.
+
+## 📖 Overview
+
+Utilizing a dataset containing personal and lifestyle variables, we train a **linear regression model** to predict medical costs. This project includes data loading, preprocessing, EDA, modeling, and basic optimization.
+
+## 📊 Dataset
+
+**Features:**
+
+- `age`: Age of the person
+- `sex`: Gender
+- `bmi`: Body Mass Index
+- `children`: Number of dependents
+- `smoker`: Smoking status (yes/no)
+- `region`: Region in the U.S.
+- `charges`: Final insurance premium (target variable)
 
 ## Structure
 
