@@ -1,4 +1,4 @@
-# 🏥 Predicting Health Insurance Costs with Linear Regression
+# 🏥 Predicting Medical Costs with Linear Regression
 
 This project focuses on building a predictive model for estimating medical costs based on a person's demographic and lifestyle features. Using a real-world dataset, we apply exploratory data analysis and linear regression modeling to extract insights and make accurate predictions.
 
